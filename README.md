@@ -11,6 +11,7 @@ Esta primer red es bastante pequeña, pero utiliza las etiquetas de trastornos y
 
 ## Red Neuronal recurrente
 Esta segunda red tiene una infraestructura adecuada para el problema, sin embargo, el entrenamiento no ha avanzado más del 55% pero tiene amplías capacidades de detección. Probando con muestras de 10 ejemplares, obtuve hasta un 70% de correctez.
+Esta utiliza las mismas etiquetas de trastornos o ámbito al que se refiere, semejante a la anterior
 
 ## Conclusiones y resultados
 En este proyecto pude aplicar mi aprendizaje adquirido a través de bastante esfuerzo durante el curso, bastante (Creo que notarán mi curva de aprendizaje respecto a las práctica e incluso los exámenes). Sin embargo mis resultados aún me parecen inesperados, puesto que como la red recurrente es la adecuada para este tipo de problemas, no esperaba que mantuviera un accuracy menor respecto a la otra. Pero es posible que necesite más entrenamiento o yo tenga un sesgo por el cuál los datos aún no logran mejorar.
